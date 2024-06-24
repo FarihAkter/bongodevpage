@@ -12,6 +12,7 @@
     padding:20px;
     margin-right: 744px;
     background-color: rgb(9, 9, 9);
+    gap: 20px;
 }
 
 .headpart
@@ -48,6 +49,8 @@ button:hover{
     color: aliceblue;
     font-size: x-large;
     padding: 0px 290px 0px 0px;
+    width: 110%; 
+    
     
 }
 .imgpart
